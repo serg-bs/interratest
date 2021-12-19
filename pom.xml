@@ -6,7 +6,7 @@
 
     <groupId>org.example</groupId>
     <artifactId>mails</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <packaging>jar</packaging>
 
     <name>org.example untitled3</name>
